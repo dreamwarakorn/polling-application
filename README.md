@@ -1,2 +1,5 @@
-# polling-application
-Apps for creating votes for everyone to share their opinions.
+# How To use
+● All the Firebase dependencies are already installed <br />
+● You need to create a new project called ‘Pollingʼ in your Firebase Console <br />
+● Download the GoogleServiceInfo.plist file and add it to your project folder. <br />
+And you are good to go!
